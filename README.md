@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+
+ I built this data security website in React JS. With react packages such as "React Icons" and "React Router Dom " multiple pages React application. The homepage features a full width image background hero component.
+ Also re-using functional components on different pages.  React-scroll package installed to simply add smooth scrolling. 
+
+
+
+
+
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
